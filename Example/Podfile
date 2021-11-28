@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'DCLPrivateLibrary_Example' do
+  pod 'DCLPrivateLibrary', :path => '../'
+
+  target 'DCLPrivateLibrary_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
