@@ -1,0 +1,6 @@
+framework module DCLPrivateLibrary {
+  umbrella header "DCLPrivateLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

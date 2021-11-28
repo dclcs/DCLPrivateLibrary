@@ -1,0 +1,16 @@
+PODS:
+  - DCLPrivateLibrary (0.1.0)
+
+DEPENDENCIES:
+  - DCLPrivateLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  DCLPrivateLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DCLPrivateLibrary: 7ae884f3304cdd0a5a93322b51ee3433f73e9a56
+
+PODFILE CHECKSUM: 1ab9fe9fa980852e7a252293e56b8e577894648d
+
+COCOAPODS: 1.10.1
